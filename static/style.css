@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+form {
+    background-color: white;
+}
+
+#result {
+    background-color: white;
+}
+
+.prediction-high {
+    color: #dc3545;
+}
+
+.prediction-medium {
+    color: #ffc107;
+}
+
+.prediction-low {
+    color: #28a745;
+}
+
+#featureImportance {
+    height: 300px;
+}
