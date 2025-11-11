@@ -1,0 +1,22 @@
+Stress Detection Using Lifestyle Data
+
+This project predicts stress levels (Low, Medium, High) based on sleep duration, work hours, exercise frequency, and screen time. Various classification models are compared and key insights are visualized.
+
+
+
+5 SDGs related to project:
+
+1. SDG 3: Good Health and Well-being  
+   This project helps identify stress, promoting mental health and well-being by enabling early intervention and healthier lifestyle choices.
+
+2. SDG 8: Decent Work and Economic Growth  
+   By analyzing work hours and stress, the project supports healthier work environments, improving productivity and employee satisfaction.
+
+3. SDG 4: Quality Education
+   Stress detection can be applied in educational settings to monitor student well-being, supporting better learning outcomes and mental health.
+
+4. SDG 11: Sustainable Cities and Communities 
+   Understanding stress patterns in urban populations helps design smarter, healthier cities with improved public health strategies.
+
+5. SDG 9: Industry, Innovation and Infrastructure
+   Use of data-driven technology for health monitoring encourages innovation in digital health infrastructure and smart city solutions.

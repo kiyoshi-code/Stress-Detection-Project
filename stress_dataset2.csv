@@ -1,0 +1,1116 @@
+Age,Gender,Work hours,Screen time,Sleep time,Exercise frequency,Mood Stability,Fatigue level,Headache ,Work_life Balance,Social Support
+16 - 21,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Often tired,Never,Not Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Never,Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Often tired,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Male,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Never tired,Rarely,Balanced,Moderate
+30 - 45,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Rarely,Balanced,Very Strong
+30 - 45,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,None
+30 - 45,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+22 - 30,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Rarely,Not Balanced,Moderate
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Never,Not Balanced,Weak
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Never tired,Never,Balanced,Very Strong
+22 - 30,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Exhausted,Never,Balanced,Weak
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Balanced,None
+45 - 60,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+16 - 21,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Rarely,Balanced,None
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+30 - 45,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Balanced,Weak
+30 - 45,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Rarely,Balanced,None
+45 - 60,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Never tired,Never,Not Balanced,None
+30 - 45,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Somewhat Balanced,Moderate
+30 - 45,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Often tired,Never,Balanced,Moderate
+45 - 60,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Often tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Rarely,Somewhat Balanced,None
+45 - 60,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Often tired,Never,Not Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Balanced,None
+16 - 21,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Not Balanced,Moderate
+16 - 21,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Exhausted,Rarely,Not Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Balanced,Moderate
+45 - 60,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Often tired,Never,Not Balanced,Weak
+45 - 60,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Rarely,Balanced,None
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Never tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Exhausted,Never,Not Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Exhausted,Never,Somewhat Balanced,None
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Rarely,Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Never,Not Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+30 - 45,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Never,Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Rarely,Balanced,Very Strong
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Never,Somewhat Balanced,None
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Not Balanced,Moderate
+16 - 21,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Never,Balanced,Weak
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Balanced,None
+30 - 45,Female,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Exhausted,Never,Balanced,None
+45 - 60,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Never tired,Never,Not Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Never tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Often tired,Rarely,Somewhat Balanced,Weak
+16 - 21,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Occasionally tired,Rarely,Somewhat Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Balanced,Weak
+22 - 30,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Often tired,Rarely,Balanced,Very Strong
+45 - 60,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Rarely,Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Somewhat Balanced,None
+16 - 21,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Rarely,Somewhat Balanced,None
+22 - 30,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Never tired,Never,Balanced,Moderate
+45 - 60,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Never tired,Never,Balanced,None
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Male,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Often tired,Never,Somewhat Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Occasionally tired,Rarely,Balanced,Weak
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Not Balanced,None
+16 - 21,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Balanced,Weak
+45 - 60,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Never,Somewhat Balanced,Weak
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Rarely,Not Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Never,Balanced,None
+30 - 45,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Never,Not Balanced,None
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,None
+30 - 45,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Stable,Exhausted,Never,Not Balanced,Moderate
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,Moderate
+22 - 30,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Never,Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,None
+16 - 21,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Stable,Never tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Never tired,Never,Balanced,Weak
+16 - 21,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Exhausted,Never,Somewhat Balanced,Weak
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Never tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Balanced,Moderate
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Never tired,Rarely,Somewhat Balanced,None
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Rarely,Not Balanced,Weak
+45 - 60,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Never,Somewhat Balanced,Weak
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Never,Not Balanced,None
+30 - 45,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Rarely,Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+30 - 45,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Weak
+30 - 45,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+30 - 45,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Never,Somewhat Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Never,Balanced,Weak
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Rarely,Balanced,Moderate
+30 - 45,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Somewhat Balanced,None
+22 - 30,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Never,Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+16 - 21,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Unstable,Exhausted,Never,Not Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Often tired,Never,Not Balanced,None
+22 - 30,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,Weak
+16 - 21,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Stable,Never tired,Frequently (more than twice in a week),Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Balanced,None
+45 - 60,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Balanced,Moderate
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+30 - 45,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Often tired,Rarely,Not Balanced,Moderate
+45 - 60,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Often tired,Never,Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Rarely,Balanced,Very Strong
+16 - 21,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Often tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Balanced,None
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,Weak
+16 - 21,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Rarely,Not Balanced,Very Strong
+45 - 60,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Never,Somewhat Balanced,Weak
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+45 - 60,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Rarely,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+16 - 21,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Never,Not Balanced,Weak
+22 - 30,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,None
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Rarely,Balanced,Weak
+16 - 21,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Often tired,Rarely,Not Balanced,Very Strong
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+30 - 45,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Never,Not Balanced,Weak
+45 - 60,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+45 - 60,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Rarely,Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Stable,Occasionally tired,Never,Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Stable,Often tired,Never,Balanced,Moderate
+16 - 21,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Somewhat Balanced,Moderate
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+16 - 21,Male,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Not Balanced,None
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Exhausted,Never,Not Balanced,Moderate
+30 - 45,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Rarely,Balanced,Weak
+16 - 21,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Exhausted,Never,Somewhat Balanced,None
+30 - 45,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,Moderate
+22 - 30,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Occasionally tired,Never,Not Balanced,None
+22 - 30,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Never tired,Rarely,Not Balanced,None
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Exhausted,Never,Somewhat Balanced,Very Strong
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Never tired,Rarely,Balanced,Moderate
+22 - 30,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+22 - 30,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Weak
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+22 - 30,Female,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Somewhat Balanced,Very Strong
+30 - 45,Male,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Female,More than 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Rarely,Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Balanced,Weak
+30 - 45,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Often tired,Never,Somewhat Balanced,Weak
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Rarely,Not Balanced,None
+16 - 21,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Rarely,Not Balanced,None
+30 - 45,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Never tired,Never,Balanced,Very Strong
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+16 - 21,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Rarely,Not Balanced,None
+16 - 21,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Very Strong
+45 - 60,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Not Balanced,Weak
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Exhausted,Never,Not Balanced,None
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Never tired,Rarely,Balanced,Moderate
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+30 - 45,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Often tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Not Balanced,Weak
+45 - 60,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Often tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Not Balanced,None
+22 - 30,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Stable,Never tired,Rarely,Somewhat Balanced,None
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Never tired,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Not Balanced,Weak
+22 - 30,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Rarely,Not Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Exhausted,Never,Balanced,Moderate
+45 - 60,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+22 - 30,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Balanced,Moderate
+45 - 60,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Never,Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Balanced,Weak
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Somewhat Balanced,Moderate
+16 - 21,Female,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Balanced,Weak
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Never,Balanced,Moderate
+16 - 21,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Not Balanced,Weak
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Balanced,very Strong
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Never,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Male,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Somewhat Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Balanced,Moderate
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Daily,Stable,Never tired,Rarely,Not Balanced,Weak
+22 - 30,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,Weak
+45 - 60,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Occasionally tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Weak
+22 - 30,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Often tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Balanced,strong
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Never,Somewhat Balanced,Moderate
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+16 - 21,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Never,Somewhat Balanced,None
+16 - 21,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+45 - 60,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Occasionally tired,Never,Not Balanced,Weak
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Often tired,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Often tired,Rarely,Not Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Never,Somewhat Balanced,Moderate
+16 - 21,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Frequently (more than twice in a week),Not Balanced,Weak
+45 - 60,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Often tired,Never,Balanced,None
+45 - 60,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Somewhat Balanced,Weak
+45 - 60,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Never tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+45 - 60,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+16 - 21,Female,More than 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Occasionally tired,Rarely,Balanced,None
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Somewhat Balanced,Weak
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Rarely,Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Rarely,Balanced,Moderate
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Somewhat Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Somewhat Balanced,Weak
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Rarely,Balanced,Moderate
+22 - 30,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Stable,Exhausted,Rarely,Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Never,Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Somewhat Balanced,Weak
+22 - 30,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Not Balanced,Weak
+30 - 45,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Balanced,Moderate
+16 - 21,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Never,Not Balanced,Very Strong
+45 - 60,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Rarely,Balanced,Very Strong
+30 - 45,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Moderate
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Balanced,Moderate
+45 - 60,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Never,Not Balanced,Weak
+45 - 60,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Rarely,Not Balanced,Weak
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Not Balanced,Weak
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Never,Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Never,Somewhat Balanced,None
+45 - 60,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+45 - 60,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Rarely,Balanced,Weak
+30 - 45,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,None
+22 - 30,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Weak
+30 - 45,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Rarely,Not Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+45 - 60,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Rarely,Somewhat Balanced,None
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Exhausted,Never,Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Never,Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Not Balanced,None
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+22 - 30,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+45 - 60,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,None
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,None
+22 - 30,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Often tired,Never,Not Balanced,None
+22 - 30,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Stable,Often tired,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+45 - 60,Male,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+22 - 30,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Never tired,Rarely,Not Balanced,None
+16 - 21,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Never tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Never,Balanced,Very Strong
+16 - 21,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Not Balanced,Weak
+22 - 30,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Never,Somewhat Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Rarely,Balanced,Moderate
+45 - 60,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Rarely,Not Balanced,None
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Never,Somewhat Balanced,Weak
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Balanced,Very Strong
+45 - 60,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Never,Not Balanced,None
+30 - 45,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Stable,Often tired,Rarely,Somewhat Balanced,None
+16 - 21,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Never tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Often tired,Rarely,Not Balanced,Moderate
+45 - 60,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Never,Not Balanced,None
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+30 - 45,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Balanced,None
+30 - 45,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Balanced,Weak
+30 - 45,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Never,Not Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Rarely,Balanced,Weak
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Never,Not Balanced,Moderate
+16 - 21,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Somewhat Balanced,None
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Never tired,Rarely,Balanced,None
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+30 - 45,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Never tired,Never,Not Balanced,Very Strong
+22 - 30,Male,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Moderate
+22 - 30,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Exhausted,Rarely,Balanced,None
+22 - 30,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Never tired,Rarely,Somewhat Balanced,None
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Never,Not Balanced,None
+30 - 45,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Rarely,Not Balanced,Weak
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Never tired,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Rarely,Somewhat Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Exhausted,Never,Balanced,Moderate
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Not Balanced,Moderate
+30 - 45,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Rarely,Somewhat Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Rarely,Not Balanced,Moderate
+45 - 60,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Not Balanced,None
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Stable,Never tired,Never,Balanced,Weak
+30 - 45,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Rarely,Balanced,Moderate
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+16 - 21,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Never,Balanced,Weak
+16 - 21,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Often tired,Never,Balanced,Moderate
+22 - 30,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Never,Not Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Exhausted,Never,Not Balanced,Moderate
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Never tired,Never,Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+16 - 21,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Never,Not Balanced,None
+22 - 30,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Balanced,Moderate
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Often tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+16 - 21,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Rarely,Balanced,Weak
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Exhausted,Rarely,Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Occasionally tired,Never,Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Female,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Not Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Often tired,Rarely,Balanced,None
+45 - 60,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+45 - 60,Male,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Balanced,Moderate
+30 - 45,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Not Balanced,Weak
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+45 - 60,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Never tired,Never,Not Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Somewhat Balanced,None
+16 - 21,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Not Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Rarely,Somewhat Balanced,None
+45 - 60,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Not Balanced,Moderate
+30 - 45,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+22 - 30,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Balanced,Weak
+16 - 21,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,None
+45 - 60,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Weak
+16 - 21,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Moderate
+16 - 21,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Often tired,Rarely,Not Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Occasionally tired,Rarely,Not Balanced,None
+16 - 21,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Rarely,Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,None
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Somewhat Balanced,Moderate
+16 - 21,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Rarely,Balanced,None
+30 - 45,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Never tired,Never,Somewhat Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Never tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Rarely,Somewhat Balanced,None
+45 - 60,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Rarely,Somewhat Balanced,Weak
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Rarely,Not Balanced,None
+22 - 30,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Rarely,Somewhat Balanced,Weak
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Never tired,Never,Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Never,Not Balanced,Very Strong
+30 - 45,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Balanced,Weak
+22 - 30,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+16 - 21,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Rarely,Somewhat Balanced,None
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Balanced,Moderate
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+16 - 21,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Somewhat Balanced,Weak
+16 - 21,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Somewhat Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Rarely,Balanced,None
+16 - 21,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Rarely,Balanced,Weak
+45 - 60,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Rarely,Somewhat Balanced,Moderate
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Occasionally tired,Rarely,Balanced,None
+45 - 60,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Somewhat Balanced,Moderate
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Rarely,Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Balanced,None
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Rarely,Somewhat Balanced,None
+45 - 60,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Stable,Exhausted,Rarely,Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Never tired,Never,Somewhat Balanced,Weak
+16 - 21,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Often tired,Rarely,Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Often tired,Never,Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Often tired,Rarely,Balanced,None
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Balanced,Weak
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,Weak
+30 - 45,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Not Balanced,Moderate
+22 - 30,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Rarely,Balanced,Moderate
+30 - 45,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Never tired,Rarely,Balanced,Very Strong
+30 - 45,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Neutral,Exhausted,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Exhausted,Never,Somewhat Balanced,None
+22 - 30,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Balanced,None
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Never tired,Rarely,Somewhat Balanced,Weak
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Balanced,None
+16 - 21,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Often tired,Never,Balanced,None
+45 - 60,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Weak
+45 - 60,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Rarely,Not Balanced,Weak
+16 - 21,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Often tired,Rarely,Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Somewhat Balanced,Moderate
+30 - 45,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Exhausted,Rarely,Somewhat Balanced,Moderate
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Never tired,Rarely,Not Balanced,Moderate
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Very Strong
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Somewhat Balanced,None
+22 - 30,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Frequently (more than twice in a week),Balanced,None
+30 - 45,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Never,Somewhat Balanced,Weak
+16 - 21,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Balanced,Weak
+45 - 60,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Not Balanced,None
+30 - 45,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Not Balanced,None
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Rarely,Balanced,None
+16 - 21,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Balanced,Weak
+16 - 21,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Rarely,Not Balanced,Moderate
+30 - 45,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+30 - 45,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+30 - 45,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Never tired,Never,Not Balanced,Weak
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Rarely,Somewhat Balanced,Weak
+16 - 21,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Somewhat Balanced,Weak
+22 - 30,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Frequently (more than twice in a week),Not Balanced,None
+22 - 30,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Occasionally tired,Rarely,Somewhat Balanced,Weak
+45 - 60,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Rarely,Balanced,Moderate
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Not Balanced,Moderate
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+22 - 30,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Rarely,Balanced,Weak
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Never,Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Often tired,Rarely,Not Balanced,Moderate
+45 - 60,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+45 - 60,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Often tired,Rarely,Not Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Never tired,Rarely,Not Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Never,Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Often tired,Rarely,Not Balanced,Weak
+30 - 45,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Balanced,None
+22 - 30,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Occasionally tired,Never,Not Balanced,Moderate
+16 - 21,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+30 - 45,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Often tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Somewhat Balanced,Weak
+16 - 21,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Weak
+16 - 21,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Never,Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Never,Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Rarely,Not Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Never tired,Never,Not Balanced,Very Strong
+16 - 21,Male,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Balanced,None
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Never tired,Rarely,Not Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Exhausted,Rarely,Balanced,Very Strong
+30 - 45,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+45 - 60,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Somewhat Balanced,Weak
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Not Balanced,Weak
+16 - 21,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Not Balanced,Moderate
+16 - 21,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Occasionally tired,Rarely,Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,None
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Neutral,Never tired,Rarely,Not Balanced,None
+30 - 45,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+16 - 21,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Balanced,Moderate
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Exhausted,Rarely,Balanced,Moderate
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Rarely,Somewhat Balanced,Weak
+45 - 60,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Rarely,Somewhat Balanced,None
+30 - 45,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Never,Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,None
+16 - 21,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+22 - 30,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Never tired,Never,Somewhat Balanced,Weak
+30 - 45,Female,More than 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Rarely,Somewhat Balanced,None
+30 - 45,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+22 - 30,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Unstable,Exhausted,Never,Balanced,Moderate
+16 - 21,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+30 - 45,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Not Balanced,None
+22 - 30,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Never tired,Rarely,Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+22 - 30,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Not Balanced,None
+45 - 60,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Exhausted,Rarely,Somewhat Balanced,Weak
+16 - 21,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Not Balanced,Moderate
+22 - 30,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Rarely,Balanced,Moderate
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Rarely,Somewhat Balanced,Weak
+22 - 30,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Never,Not Balanced,Moderate
+45 - 60,Male,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Balanced,None
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Rarely,Not Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Never tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Never tired,Never,Balanced,Weak
+30 - 45,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Stable,Exhausted,Never,Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,Weak
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Exhausted,Rarely,Balanced,Weak
+22 - 30,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Somewhat Balanced,Moderate
+22 - 30,Male,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Never tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Stable,Never tired,Never,Not Balanced,None
+22 - 30,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Rarely,Somewhat Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Never,Stable,Exhausted,Rarely,Not Balanced,Moderate
+45 - 60,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+30 - 45,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Never,Somewhat Balanced,Moderate
+22 - 30,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Never,Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Often tired,Rarely,Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Often tired,Never,Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Rarely,Balanced,Weak
+45 - 60,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Stable,Often tired,Never,Somewhat Balanced,None
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Not Balanced,Weak
+45 - 60,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Never,Not Balanced,None
+22 - 30,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Never,Not Balanced,Weak
+16 - 21,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Rarely,Not Balanced,Weak
+22 - 30,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Balanced,Moderate
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,None
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Weak
+30 - 45,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Never tired,Never,Not Balanced,Moderate
+16 - 21,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Exhausted,Rarely,Not Balanced,Moderate
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Stable,Never tired,Rarely,Balanced,Very Strong
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+30 - 45,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Somewhat Balanced,Moderate
+30 - 45,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,None
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Weak
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Not Balanced,Weak
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Exhausted,Rarely,Not Balanced,None
+16 - 21,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Not Balanced,Very Strong
+16 - 21,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Never,Somewhat Balanced,Moderate
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,Weak
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Never,Somewhat Balanced,Moderate
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Rarely,Not Balanced,Very Strong
+16 - 21,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Rarely,Somewhat Balanced,Weak
+45 - 60,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+45 - 60,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Never,Not Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Rarely,Somewhat Balanced,Very Strong
+16 - 21,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Rarely,Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Often tired,Never,Not Balanced,Moderate
+45 - 60,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Stable,Occasionally tired,Rarely,Not Balanced,Moderate
+30 - 45,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,Moderate
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Never tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Rarely,Balanced,None
+22 - 30,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Rarely,Balanced,Weak
+16 - 21,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,None
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Often tired,Never,Not Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Never,Balanced,Moderate
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Never tired,Never,Somewhat Balanced,None
+30 - 45,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Rarely,Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Never,Somewhat Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Rarely,Somewhat Balanced,Moderate
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Never tired,Never,Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Weak
+45 - 60,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Balanced,Weak
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Balanced,None
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Balanced,Weak
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Often tired,Never,Somewhat Balanced,Moderate
+30 - 45,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Moderate
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Exhausted,Rarely,Not Balanced,Weak
+30 - 45,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Occasionally tired,Never,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Never tired,Never,Somewhat Balanced,Weak
+16 - 21,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Balanced,None
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Not Balanced,Moderate
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Often tired,Never,Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Rarely,Balanced,Moderate
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Balanced,Moderate
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+45 - 60,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Rarely,Not Balanced,None
+16 - 21,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Balanced,Weak
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+45 - 60,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+45 - 60,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Never tired,Never,Not Balanced,None
+30 - 45,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Rarely,Not Balanced,None
+22 - 30,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Never tired,Never,Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Not Balanced,Moderate
+22 - 30,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+22 - 30,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Never tired,Rarely,Not Balanced,Moderate
+22 - 30,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Weak
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Stable,Often tired,Never,Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,None
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Somewhat Balanced,None
+30 - 45,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Often tired,Rarely,Somewhat Balanced,Very Strong
+45 - 60,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Not Balanced,Moderate
+45 - 60,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Never tired,Never,Somewhat Balanced,Weak
+45 - 60,Male,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Occasionally tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+16 - 21,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Never,Not Balanced,Very Strong
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Rarely,Somewhat Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Never,Balanced,Very Strong
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,None
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Not Balanced,Weak
+30 - 45,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Never,Balanced,Weak
+16 - 21,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Often tired,Rarely,Balanced,None
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+22 - 30,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Balanced,None
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Balanced,None
+16 - 21,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Balanced,Weak
+22 - 30,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Rarely,Balanced,None
+30 - 45,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Never tired,Rarely,Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,Moderate
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+16 - 21,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Never,Balanced,Weak
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Often tired,Never,Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Never tired,Rarely,Balanced,None
+30 - 45,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Often tired,Never,Not Balanced,Very Strong
+16 - 21,Male,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,Very Strong
+16 - 21,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Never,Somewhat Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Exhausted,Never,Not Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+16 - 21,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Never tired,Never,Somewhat Balanced,Moderate
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Frequently (more than twice in a week),Not Balanced,Weak
+30 - 45,Male,More than 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Rarely,Balanced,Moderate
+22 - 30,Male,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+22 - 30,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Moderate
+16 - 21,Male,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Never tired,Never,Somewhat Balanced,None
+45 - 60,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Stable,Exhausted,Rarely,Somewhat Balanced,None
+22 - 30,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+16 - 21,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Balanced,Weak
+30 - 45,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,None
+45 - 60,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Female,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Exhausted,Never,Not Balanced,None
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Never tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Often tired,Never,Balanced,None
+16 - 21,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Never tired,Frequently (more than twice in a week),Balanced,Weak
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+30 - 45,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Often tired,Rarely,Somewhat Balanced,None
+45 - 60,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Rarely,Not Balanced,Moderate
+22 - 30,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Balanced,Moderate
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Often tired,Rarely,Not Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+45 - 60,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Balanced,Moderate
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,Weak
+45 - 60,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Rarely,Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Never tired,Never,Balanced,Weak
+30 - 45,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Often tired,Never,Not Balanced,Moderate
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Never tired,Frequently (more than twice in a week),Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Never tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Often tired,Never,Not Balanced,Very Strong
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Not Balanced,Very Strong
+45 - 60,Female,More than 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+45 - 60,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Rarely,Balanced,Weak
+16 - 21,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+16 - 21,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Never tired,Rarely,Balanced,Very Strong
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Occasionally tired,Frequently (more than twice in a week),Balanced,Very Strong
+30 - 45,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Never tired,Never,Somewhat Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Often tired,Rarely,Not Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Balanced,Moderate
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Rarely,Not Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+30 - 45,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Stable,Often tired,Rarely,Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+22 - 30,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Balanced,Moderate
+30 - 45,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Not Balanced,Weak
+30 - 45,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Balanced,Very Strong
+16 - 21,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Never,Balanced,Moderate
+30 - 45,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Often tired,Rarely,Balanced,Very Strong
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Not Balanced,None
+16 - 21,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Unstable,Exhausted,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Never tired,Rarely,Balanced,Moderate
+30 - 45,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Unstable,Never tired,Sometimes (1 - 2 times/ week),Balanced,None
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+30 - 45,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Never,Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Never,Balanced,None
+16 - 21,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Weak
+16 - 21,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Rarely,Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Never tired,Never,Somewhat Balanced,Moderate
+22 - 30,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+22 - 30,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Weak
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Never tired,Rarely,Not Balanced,Very Strong
+45 - 60,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Rarely,Not Balanced,Moderate
+16 - 21,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,Moderate
+22 - 30,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Often tired,Rarely,Not Balanced,None
+30 - 45,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Not Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Rarely,Balanced,Weak
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+45 - 60,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Never tired,Never,Not Balanced,None
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Rarely,Not Balanced,None
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+45 - 60,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Never tired,Never,Balanced,Moderate
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Often tired,Never,Somewhat Balanced,Very Strong
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+22 - 30,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Never tired,Never,Balanced,None
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Very Strong
+22 - 30,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Never,Somewhat Balanced,Weak
+30 - 45,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Never,Not Balanced,Moderate
+45 - 60,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Often tired,Frequently (more than twice in a week),Not Balanced,Very Strong
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Balanced,Very Strong
+30 - 45,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,Very Strong
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Never tired,Frequently (more than twice in a week),Balanced,Moderate
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Never,Not Balanced,None
+30 - 45,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+45 - 60,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Neutral,Occasionally tired,Never,Not Balanced,Moderate
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Rarely,Balanced,Weak
+22 - 30,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Never,Not Balanced,Very Strong
+22 - 30,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+45 - 60,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Never,Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Never tired,Never,Somewhat Balanced,Very Strong
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Balanced,None
+45 - 60,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Never tired,Never,Not Balanced,Moderate
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Not Balanced,None
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Somewhat Balanced,Weak
+30 - 45,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Female,Less than 7 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+22 - 30,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently (more than twice in a week),Balanced,None
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Rarely,Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Not Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Often tired,Never,Not Balanced,None
+16 - 21,Female,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,Moderate
+30 - 45,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Never tired,Rarely,Not Balanced,Very Strong
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,None
+16 - 21,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Rarely,Balanced,Moderate
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Balanced,None
+16 - 21,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Exhausted,Rarely,Not Balanced,None
+30 - 45,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Never,Balanced,None
+22 - 30,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Never tired,Rarely,Balanced,Weak
+22 - 30,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Often tired,Rarely,Not Balanced,None
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Never,Somewhat Balanced,Moderate
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Never tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+22 - 30,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Weak
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,None
+30 - 45,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Often tired,Rarely,Not Balanced,Weak
+30 - 45,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Rarely,Not Balanced,Weak
+22 - 30,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Never tired,Never,Balanced,Moderate
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Somewhat Balanced,Weak
+45 - 60,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Never tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Never,Balanced,None
+30 - 45,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Exhausted,Rarely,Balanced,None
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Rarely,Not Balanced,None
+30 - 45,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Rarely,Somewhat Balanced,Weak
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Often tired,Frequently (more than twice in a week),Somewhat Balanced,None
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Never tired,Rarely,Somewhat Balanced,Moderate
+16 - 21,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Weak
+45 - 60,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Never tired,Never,Balanced,Moderate
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Rarely,Somewhat Balanced,Weak
+16 - 21,Female,More than 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Never tired,Never,Somewhat Balanced,Weak
+45 - 60,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Rarely,Somewhat Balanced,None
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Never tired,Rarely,Not Balanced,Moderate
+45 - 60,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Never,Balanced,Moderate
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Exhausted,Never,Not Balanced,Weak
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Exhausted,Never,Not Balanced,Very Strong
+45 - 60,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+30 - 45,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Not Balanced,Moderate
+30 - 45,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Never,Balanced,Weak
+22 - 30,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,None
+22 - 30,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Rarely,Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Balanced,Moderate
+22 - 30,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Never tired,Rarely,Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Stable,Exhausted,Rarely,Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,None
+16 - 21,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Rarely,Balanced,Weak
+45 - 60,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Never,Not Balanced,Very Strong
+22 - 30,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Somewhat Balanced,None
+22 - 30,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Exhausted,Frequently (more than twice in a week),Balanced,None
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Never tired,Never,Not Balanced,Weak
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+16 - 21,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Stable,Never tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Rarely,Balanced,Very Strong
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Never tired,Never,Somewhat Balanced,Moderate
+16 - 21,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Not Balanced,Weak
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,None
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Occasionally tired,Sometimes (1 - 2 times/ week),Not Balanced,Moderate
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Balanced,None
+22 - 30,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Rarely,Balanced,Moderate
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Frequently (more than twice in a week),Somewhat Balanced,Moderate
+30 - 45,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Never tired,Never,Balanced,Moderate
+22 - 30,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Sometimes (1 - 2 times/ week),Balanced,Weak
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Sometimes (1 - 2 times/ week),Not Balanced,Very Strong
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Rarely,Not Balanced,Weak
+30 - 45,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Rarely,Somewhat Balanced,Moderate
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Frequently (more than twice in a week),Somewhat Balanced,Very Strong
+22 - 30,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Often tired,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Rarely,Balanced,Very Strong
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,None
+16 - 21,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Rarely,Balanced,None
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Balanced,Moderate
+16 - 21,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Never,Not Balanced,Very Strong
+30 - 45,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Never tired,Frequently (more than twice in a week),Somewhat Balanced,Weak
+22 - 30,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes (1 - 2 times/ week),Somewhat Balanced,Moderate
+30 - 45,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently (more than twice in a week),Balanced,Weak
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes (1 - 2 times/ week),Somewhat Balanced,None
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently (more than twice in a week),Not Balanced,None
+30 - 45,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Often tired,Rarely,Not Balanced,Moderate
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Never tired,Rarely,Not Balanced,None
