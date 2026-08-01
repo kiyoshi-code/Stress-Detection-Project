@@ -1,4 +1,4 @@
-# Smart Cities Stress Detection Project
+# Stress Detection System
 
 This project combines machine learning with a modern web interface to predict stress levels based on lifestyle factors.
 
